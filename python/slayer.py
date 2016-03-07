@@ -1,5 +1,4 @@
 target_length = 6
-#num_range = xrange(100, 1000)
 num_range = xrange(100000, 1000000)
 slayer_nums = []
 
